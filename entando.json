@@ -1,0 +1,22 @@
+{
+    "microservices": [],
+    "microfrontends": [
+        {
+            "name": "simple-mfe",
+            "customElement": "simple-mfe",
+            "stack": "react",
+            "type": "widget",
+            "group": "free",
+            "publicFolder": "public",
+            "titles": {
+                "en": "simple-mfe",
+                "it": "simple-mfe"
+            }
+        }
+    ],
+    "svc": [],
+    "name": "e72-react-mfe-with-config",
+    "version": "0.0.1",
+    "description": "Entando 7.2 React MFE",
+    "type": "bundle"
+}
