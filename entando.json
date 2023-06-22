@@ -12,6 +12,20 @@
                 "en": "simple-mfe",
                 "it": "simple-mfe"
             }
+        },
+        {
+            "name": "simple-mfe-config",
+            "customElement": "simple-mfe-config",
+            "stack": "react",
+            "type": "widget-config",
+            "group": "free",
+            "publicFolder": "public",
+            "params": [
+                {
+                    "name": "name",
+                    "description": "The name for Hello World"
+                }
+            ]
         }
     ],
     "svc": [],
