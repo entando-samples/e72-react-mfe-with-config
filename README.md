@@ -1,5 +1,5 @@
-# React MFE
-The project is a bundle with a single React MFE (simple-mfe) for Entando 7.2
+# Configurable React MFE
+The project is a bundle with a configurable React MFE (simple-mfe) for Entando 7.2
 
 ## Prerequisites
 1. Docker account
