@@ -11,7 +11,14 @@
             "titles": {
                 "en": "simple-mfe",
                 "it": "simple-mfe"
-            }
+            },
+            "configMfe": "simple-mfe-config",
+            "params": [
+                {
+                    "name": "name",
+                    "description": "The name for Hello World"
+                }
+            ]
         },
         {
             "name": "simple-mfe-config",
@@ -19,13 +26,7 @@
             "stack": "react",
             "type": "widget-config",
             "group": "free",
-            "publicFolder": "public",
-            "params": [
-                {
-                    "name": "name",
-                    "description": "The name for Hello World"
-                }
-            ]
+            "publicFolder": "public"
         }
     ],
     "svc": [],
